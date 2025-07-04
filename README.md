@@ -21,18 +21,8 @@ A beautiful, responsive task management application built with React and TypeScr
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Application](https://your-deployed-url.com)**
+🔗 **[View Live Application]([https://your-deployed-url.com](https://task-tracker-chandrakant.netlify.app/))**
 
-## 📱 Screenshots
-
-### Light Mode
-![Light Mode Dashboard](https://via.placeholder.com/800x600/ffffff/333333?text=Light+Mode+Dashboard)
-
-### Dark Mode
-![Dark Mode Dashboard](https://via.placeholder.com/800x600/1f2937/ffffff?text=Dark+Mode+Dashboard)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x800/ffffff/333333?text=Mobile+View)
 
 ## 🛠️ Setup Instructions
 
@@ -125,27 +115,4 @@ The application includes sample tasks to help you get started:
 - Complete React assignment (High priority, Work category)
 - Review JavaScript concepts (Medium priority, Personal category)
 
-## 🚀 Deployment
-
-This application can be deployed to various platforms:
-
-### Netlify
-1. Build the project: `npm run build`
-2. Deploy the `dist` folder to Netlify
-
-### Vercel
-1. Connect your GitHub repository to Vercel
-2. Vercel will automatically detect the build settings
-
-### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add deploy script to package.json
-3. Run: `npm run deploy`
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
-**Built with ❤️ by [Chandrakant tripathi]**
+**Built by [Chandrakant tripathi]**
