@@ -26,10 +26,10 @@ A beautiful, responsive task management application built with React and TypeScr
 ## 📱 Screenshots
 
 ### Light Mode
-[Light Mode Dashboard](https://via.placeholder.com/800x600/ffffff/333333?text=Light+Mode+Dashboard)
+[Light Mode Dashboard](https://drive.google.com/file/d/1xnm5MxPx9dL84gkz6Jpxcu7rOjtwD705/view?usp=sharing)
 
 ### Dark Mode
-[Dark Mode Dashboard](https://via.placeholder.com/800x600/1f2937/ffffff?text=Dark+Mode+Dashboard)
+[Dark Mode Dashboard](https://drive.google.com/file/d/1kdK3A46nDUjuZp7H-u5CujFMwZJXrdrH/view?usp=sharing)
 
 ### Mobile View
 [Mobile View](https://drive.google.com/file/d/12wpdK-DuVMFq7MjZ8Uk7IZI4eHR1ZyfS/view?usp=sharing)
