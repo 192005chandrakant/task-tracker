@@ -23,6 +23,17 @@ A beautiful, responsive task management application built with React and TypeScr
 
 🔗 **[View Live Application](https://task-tracker-chandrakant.netlify.app/)**
 
+## 📱 Screenshots
+
+### Light Mode
+![Light Mode Dashboard](https://via.placeholder.com/800x600/ffffff/333333?text=Light+Mode+Dashboard)
+
+### Dark Mode
+![Dark Mode Dashboard](https://via.placeholder.com/800x600/1f2937/ffffff?text=Dark+Mode+Dashboard)
+
+### Mobile View
+![Mobile View](https://drive.google.com/file/d/12wpdK-DuVMFq7MjZ8Uk7IZI4eHR1ZyfS/view?usp=sharing)
+
 
 ## 🛠️ Setup Instructions
 
