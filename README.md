@@ -21,7 +21,7 @@ A beautiful, responsive task management application built with React and TypeScr
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Application]([https://your-deployed-url.com](https://task-tracker-chandrakant.netlify.app/))**
+🔗 **[View Live Application](https://task-tracker-chandrakant.netlify.app/)**
 
 
 ## 🛠️ Setup Instructions
